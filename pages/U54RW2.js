@@ -8,6 +8,7 @@ export default function Index() {
           une plus récente..
         </h1>
         <img width="400px" alt="basile" src="/basile_2019.jpg" />
+        <p>Quand vous aurez trouvé un id.. mettez le en majuscule</p>
       </header>
     </>
   );
