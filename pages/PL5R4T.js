@@ -12,7 +12,7 @@ export default function Index() {
           <br />
           <span>Vous savez si c'est responsive ? Ca a pas l'air... </span>
           <br />
-          <span>Je me demande si c'est beau avec 427 pixels de largeur..</span>
+          <span>📏📏📏 427p 📏📏📏</span>
           <br />
           <span className="uazyegah3763673uydazuoijfIOIAZEUIAZEUydyaLllIii">
             DWR7MP
