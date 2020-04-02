@@ -18,7 +18,7 @@ export default function Index() {
           Chacune des étapes de la chasse se matéralise par{" "}
           <b>une nouvelle page du site avec un id unique</b>
           <br />
-          Comme ceci : <mark>azdazd.now.sh/DHG427</mark>
+          Comme ceci : <mark>treasurehunt-iota.now.sh/DHG427</mark>
           <br />
           L'id fera toujours <em>6 caractères.</em>
           <br />
