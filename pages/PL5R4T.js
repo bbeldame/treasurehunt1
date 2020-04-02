@@ -12,7 +12,7 @@ export default function Index() {
           <br />
           <span>Vous savez si c'est responsive ? Ca a pas l'air... </span>
           <br />
-          <span>📏📏📏 427p 📏📏📏</span>
+          <span>📏📏📏 <- 427px -> 📏📏📏</span>
           <br />
           <span className="uazyegah3763673uydazuoijfIOIAZEUIAZEUydyaLllIii">
             DWR7MP
